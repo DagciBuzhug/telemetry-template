@@ -34,7 +34,7 @@ Before deploying the Docker Compose setup, ensure the following prerequisites ar
    cd telemetry-template
    ```
 
-3. Create a `.env` file in the project root with your desired configurations. Use the provided `.env` file as a template:
+3. Create a `.env` file in the project root with your desired configurations. Use the provided `.env.exemple` file as a template:
 
 4. **Configure via `.env` file:** Customize the `.env` file as needed, specifying parameters such as processor IPs, ports, and authentication details. Example configuration in `.env`:
 
